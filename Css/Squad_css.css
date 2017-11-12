@@ -1,0 +1,30 @@
+@charset "utf-8";
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #222;
+  overflow: hidden;
+}
+svg {
+	fill: #555;
+	stroke: #555;
+	stroke-width: 0.5;
+  width: 90vw;
+  height: 90vh;
+}
+
+.ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px black;
+}
+
+.tooltip-inner{
+	background-color: black;
+}
