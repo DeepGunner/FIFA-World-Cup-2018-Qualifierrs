@@ -1,7 +1,9 @@
 ## Fifa World Cup Qualifiers 2018
 
 The aim of this web project is to simplify the way in which one can view the FIFA World Cup Qualifiers using SVGS, HTML, CSS, JS, Bootstrap and Git.
-The project functions in the following way.The user can directly choose the federation he wishes to view
+
+
+The project functions in the following way.The user can directly choose the federation he wishes to view.
 
 ![2017-11-27](https://user-images.githubusercontent.com/26375173/33518035-8c52e4c6-d7b4-11e7-8831-e2bf7f9acb36.png)
 
